@@ -28,9 +28,9 @@ phases:
     #commands:
       # - command
       # - command
-  install:
-    runtime-versions:
-      java: corretto17
+#   install:
+#     runtime-versions:
+#       java: corretto17
   pre_build:
     commands:
       - mvn test
