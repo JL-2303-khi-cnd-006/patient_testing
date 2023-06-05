@@ -64,7 +64,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>hello</finalName>
+		<finalName>patient</finalName>
 	</build>
 
 </project>
